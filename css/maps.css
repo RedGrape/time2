@@ -1,0 +1,112 @@
+.version.maps /* version checker */
+{
+	color: #0000E7;
+	background-color: #7A0EF6;
+}
+
+@-ms-viewport
+{
+	width: 750px;
+}
+
+@-webkit-viewport
+{
+	width: 750px;
+}
+
+@-o-viewport
+{
+	width: 750px;
+}
+
+@-moz-viewport
+{
+	width: 750px;
+}
+
+@viewport
+{
+	width: 750px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 711px;
+	min-height: 1213.8684007082113px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #F6DF46;
+	padding: 20px 20px 96.13159929178869px 19px;
+}
+
+#pu346
+{
+	width: 0.01px;
+}
+
+#u346
+{
+	z-index: 2;
+	width: 102px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u356
+{
+	z-index: 4;
+	width: 102px;
+	height: 102px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+.ie #u356
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u363-4
+{
+	z-index: 6;
+	width: 196px;
+	min-height: 35px;
+	background-color: transparent;
+	line-height: 72px;
+	font-size: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 258px;
+}
+
+#u357
+{
+	z-index: 5;
+	width: 710px;
+	min-height: 1063px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 1px;
+	margin-top: 8px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 750px;
+}
+
